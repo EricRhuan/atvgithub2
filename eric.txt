@@ -1,2 +1,5 @@
 criado documento de texto
 alterado o documento: linha 6
+alterado no documento: linha 13
+(errei e enviei o terceiro commit pra branch dev ao invés de enviar para a atividade 1, irei salvar esse texto na dev)
+alteração no documento: linha 13
