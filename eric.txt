@@ -1,3 +1,4 @@
 criado documento de texto
 alterado o documento: linha 6
+alterado o documento: linha 27
 alterado no documento: linha 13
