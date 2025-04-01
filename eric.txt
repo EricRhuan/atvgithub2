@@ -1,1 +1,18 @@
 criado documento de texto
+alterado o documento: linha 6
+alterado no documento: linha 13
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 1bf864b4deb2a73615d32199b3c2613a8f95b89c
+(errei e enviei o terceiro commit pra branch dev ao invés de enviar para a atividade 1, irei salvar esse texto na dev)
+alteração no documento: linha 13)
+alterado documento: linha 22
+alterado o documento: linha 27
+<<<<<<< HEAD
+alterado no documento: linha 13
+>>>>>>> 1bf864b4deb2a73615d32199b3c2613a8f95b89c
+=======
+alterado no documento: linha 13
+>>>>>>> 1bf864b4deb2a73615d32199b3c2613a8f95b89c
